@@ -1,4 +1,7 @@
+// THIS IS A SINGLE LINE COMMENT IN C++
 
+/* THIS IS A DOUBLE-LINE
+   COMMENT IN C++  */
 
 #include <stdio.h>
 
